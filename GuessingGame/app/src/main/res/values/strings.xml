@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GuessingGame</string>
+    <string name="image_desc">Game Image</string>
+    <string name="ButtonOneDefault">Title One</string>
+    <string name="ButtonTwoDefault">Title Two</string>
+    <string name="ButtonThreeDefault">Title Three</string>
+    <string name="ButtonFourDefault">Title Four</string>
+    <string name="PlayAgainButton">Play Again</string>
+</resources>
